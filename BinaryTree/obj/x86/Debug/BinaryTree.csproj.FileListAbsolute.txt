@@ -1,0 +1,5 @@
+C:\Users\Simon\Workspace\CSharp\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Simon\Workspace\CSharp\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Simon\Workspace\CSharp\Projects\BinaryTree\BinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Workspace\CSharp\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.exe
+C:\Users\Simon\Workspace\CSharp\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.pdb
